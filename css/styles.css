@@ -1,0 +1,81 @@
+
+.img-fluid {
+  width: 100%;
+  display: block;
+  position: relative;
+}
+
+.container-fluid {
+  position: relative;
+  margin: auto;
+}
+
+.button-section {
+  position: absolute;
+  text-align: center;
+  top: 68%;
+  height: 12%;
+}
+
+.link-button {
+  width: 17%;
+  height: 100%;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+  border-radius: 15px;
+  border-width: 3.5px;
+  font-size: 2.15vw;
+  border-color: rgb(218, 64, 134);
+  border-style: solid;
+  text-decoration: underline;
+  background-color: transparent;
+  outline: none;
+}
+
+.right-home-button-div {
+  position: absolute;
+  top: 2%;
+  right: 3%;
+  text-align: right;
+  height: 12%;
+}
+
+.left-home-button-div {
+  position: absolute;
+  top: 2%;
+  left: 3%;
+  text-align: left;
+  height: 12%;
+}
+
+.home-button {
+  font-size: 2.15vw;
+  text-decoration: underline;
+  border-style: none;
+  background-color: transparent;
+  font-weight: bold;
+  outline: none;
+  color: black;
+}
+
+.heading-button-link {
+  font-size: 2.15vw;
+  text-decoration: underline;
+  border-style: none;
+  background-color: transparent;
+  outline: none;
+  color: black;
+}
+
+.contact-button {
+  font-size: 2.15vw;
+  text-decoration: underline;
+  border-style: none;
+  color: white;
+  border: none;
+  background-color: transparent;
+}
+
+html {
+  scroll-behavior: smooth;
+}
